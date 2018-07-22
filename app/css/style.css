@@ -1,0 +1,50 @@
+ #pri{
+	background-color: #2c3e50;
+	color: white;
+}
+#blue{
+	color: #2c3e50;
+}
+#red{
+	color: #e74c3c;
+}
+#grn{
+	color:#128f76;
+}
+#kuning{
+	color: red;	
+}
+#yel{
+	color: #f39c12;
+}
+#mrg{
+	margin: 0 30px;
+}
+#bg-def{
+	background-color: rgba(0, 0, 0, 0.05);
+}
+#cur{
+	cursor: pointer;
+}
+#grey{
+	background-color:#f9f9f9;
+}
+.pri_rgba{
+	background-color: rgba(44, 62, 80, 0.1);
+}
+
+
+.total{
+	width: 560px;
+    line-height: 105px;
+    height: 115px;
+    font-size: 300%;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.pt{
+	font-size: 150%;
+}
+
+button:disabled{background:red;}
