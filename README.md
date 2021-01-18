@@ -1,3 +1,5 @@
+# SUDAH TIDAK DI MAINTENANCE (KALO ERROR HARAP DISAMAKAN PHP nya menggunaknan PHP 5)
+
 # Aplikasi Pengelola Barang Toko Bangunan
 Sebuah aplikasi berbasis web untuk mengelola barang dan keuangan pada sebuah toko bangunan.
 
@@ -19,11 +21,9 @@ Sebuah aplikasi berbasis web untuk mengelola barang dan keuangan pada sebuah tok
 * Javascript
 * Bootstrap 
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 
 ```
